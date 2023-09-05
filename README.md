@@ -13,9 +13,7 @@ https://github.com/BaranEkin/autonomous-driving-sim/assets/46752246/649af99c-33a
 ### Simulator
 
 You can find the GitHub repo of the simulator [HERE](https://github.com/tum-autonomousdriving/autonomous-driving-simulator)  
-
-Ready to use build of the simulator is under: simulator/v24_build_optimized.zip
-Unzip the simulator and run directly.
+Get the simulator build and run.
 
 
 ### Driving Script
